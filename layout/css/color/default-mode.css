@@ -1,0 +1,68 @@
+
+body {   background-color : #EEE ;  }
+
+/**************************Start Header***************************/
+
+.header { background-color : #E6E6E6 ;  }
+
+.header ul li button.align-justify {   background-color : #e6e6e6 ;   }
+
+.header ul.record li a:hover {   background-color : #d3d3d3 ;     padding : 8px 0px 5px ;      }
+
+.header ul.logo-and-color li.option-color:hover .color input {  background-color : #cbcbcb ; }
+
+.header ul.logo-and-color li.option-color .color input:hover {  background-color : #b2b1b1 ; }
+
+/**************************End Header***************************/
+
+
+/**************************Start new_account-login***************************/
+
+
+.new_account-login form:first-child .delete-button-style , .new_account-login form:first-child h1 {  color : #838181 ;  }
+
+.new_account-login form:first-child .selection { color : #0490a2  ;  }
+
+.new_account-login form input ,
+.new_account-login form button ,
+.new_account-login form div i#showPassword {  background-color : #eee ;  border-color : #b8b8b8 ; }
+
+/**************************Start new_account-login***************************/
+
+
+/**************************Start Index***************************/
+
+
+.index .all-users {   border-left : 2px solid #aeabab ;   background-color : #eee ;  }
+
+.index .all-users .user {  border-bottom-color : #aeabab ; }
+
+.index .all-users .user:hover {  background-color : #cfcfcf ;  }
+
+
+
+/* Start Messages Exchanged With The Other Party  */
+
+.index .messages-exchanged-with-the-other-party .user-data {   background-color : #eeeeee ; }
+
+.index .messages-exchanged-with-the-other-party .all-messages .user-other-end p {  background-color : #cfcfcf ;  }
+
+.index .messages-exchanged-with-the-other-party .all-messages .sender p {  background-color : #b4b4b4 ; }
+
+.index .messages-exchanged-with-the-other-party .all-messages .there-are-no-messages  { background-color : #eeeeee ;   }
+
+/* End Messages Exchanged With The Other Party  */
+
+
+/* Start Form */
+
+
+.index .messages-exchanged-with-the-other-party .form {   background-color : #eeeeee ;  }
+
+.index .messages-exchanged-with-the-other-party .form form textarea {  background-color : #e8e8e8 ;   }
+
+.index .messages-exchanged-with-the-other-party .form form button {   background-color : #eeeeee ; }
+
+/* Start Form */
+
+/**************************End Index***************************/
